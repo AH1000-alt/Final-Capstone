@@ -22,7 +22,7 @@ sentiment, and zero representing neutral sentiment.
 The similarity between pairs of reviews is computed using spaCy's similarity
 function, which compares the semantic similarity between the preprocessed
 documents.
-### 4. Insights into the model's strengths and limitations.
+## 4. Insights into the model's strengths and limitations.
 The model demonstrates accuracy in predicting sentiment based on the text data. However, further
 analysis is needed to evaluate its performance on a larger dataset.
 ### Strengths:
