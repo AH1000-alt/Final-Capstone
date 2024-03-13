@@ -8,7 +8,7 @@ from fpdf import FPDF
 nlp = spacy.load("en_core_web_md")
 
 # Load the dataset
-dataframe = pd.read_csv(r"C:\Users\adiba\Desktop\Coding Tasks Submitted\Task 21 - Capstone Project\amazon_product_reviews.csv")
+dataframe = pd.read_csv(r"C:\Users\a\Desktop\Coding Tasks Submitted\Task 21 - Capstone Project\amazon_product_reviews.csv")
 
 # Find the correct column containing text data
 column_name = None
